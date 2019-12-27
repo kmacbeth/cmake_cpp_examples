@@ -1,3 +1,10 @@
+# Editor tags and database
+compile_commands.json
+tags
+
+# Build folders
+build/
+
 # Prerequisites
 *.d
 
